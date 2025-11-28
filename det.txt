@@ -2,3 +2,7 @@
 
 [> Name: Danish,
 [> Registration_Number: 12300938,
+
+
+#This update is from remote platform; 
+[> SPecialization: MERN;
